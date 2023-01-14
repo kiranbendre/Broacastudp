@@ -1,0 +1,6 @@
+framework module Pods_BroadcastUDP {
+  umbrella header "Pods-BroadcastUDP-umbrella.h"
+
+  export *
+  module * { export * }
+}
